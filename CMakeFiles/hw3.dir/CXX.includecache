@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/s/bach/j/under/isaac13/HW3/Lexan.cc
+iostream
+-
+cctype
+-
+string
+-
+vector
+-
+Lexan.h
+/s/bach/j/under/isaac13/HW3/Lexan.h
+
+/s/bach/j/under/isaac13/HW3/Lexan.h
+string
+-
+vector
+-
+iostream
+-
+
